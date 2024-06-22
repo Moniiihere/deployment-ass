@@ -1,0 +1,15 @@
+
+.button {
+    background-color: antiquewhite;
+}
+
+.bg-img {
+    background-image: url('https://img.freepik.com/premium-vector/calm-surface-seascape-with-sky_317810-4616.jpg?w=360');
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.card{
+    background-color: white;
+}
